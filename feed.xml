@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Ejemplo de RSS</title>
+    <link>https://www.github.com</link>
+    <description>Un feed de prueba con enlaces reales.</description>
+    <language>es</language>
+    <lastBuildDate>Fri, 15 Nov 2024 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>GitHub</title>
+      <link>https://github.com</link>
+      <description>La plataforma de desarrollo colaborativo más popular.</description>
+      <pubDate>Fri, 15 Nov 2024 11:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Wikipedia</title>
+      <link>https://es.wikipedia.org</link>
+      <description>La enciclopedia libre que todos pueden editar.</description>
+      <pubDate>Fri, 15 Nov 2024 10:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Stack Overflow</title>
+      <link>https://stackoverflow.com</link>
+      <description>La comunidad más grande para programadores.</description>
+      <pubDate>Fri, 15 Nov 2024 09:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
